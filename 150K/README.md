@@ -35,8 +35,7 @@
 
 |Loss/regularization_loss/150K|Loss/total_loss/150K|
 :-------------------------------------:|:-----------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1GPU/raw/master/150K/Loss_regularization_loss.svg
-?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1GPU/raw/master/150K/Loss_total_loss.svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1GPU/raw/master/150K/Loss_regularization_loss.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1GPU/raw/master/150K/Loss_total_loss.svg?sanitize=true)
 
 
 
